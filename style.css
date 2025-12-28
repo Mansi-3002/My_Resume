@@ -51,3 +51,7 @@ footer {
     background: #1f2933;
     color: white;
 }
+.contact-row{
+    display: flex;
+    justify-content : space-between
+}
